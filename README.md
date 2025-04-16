@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="20250416_1514_Opengame Logo Design_simple_compose_01jrz6gwgyfgpr61zj7h12ar3a.png" alt="Gwen" width="800"/>
+  <img src="20250416_1514_Opengame Logo Design_simple_compose_01jrz6gwgyfgpr61zj7h12ar3a.png" alt="OG" width="800"/>
   <h1 align="center"></h1>
 </p>
 
